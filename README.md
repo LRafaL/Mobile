@@ -4,3 +4,5 @@
 
 [Test cases for testing a mobile application](https://github.com/LRafaL/Mobile/blob/main/Mobile%20App%20Testing%20-%20Laura%20Rafalovich.pdf)
 
+[Test run testing mobile application from QASE](https://github.com/LRafaL/Mobile/blob/main/G7-Express%2Brun%2B2024_06_19%20Qase%20Mobile%20App.pdf)
+
