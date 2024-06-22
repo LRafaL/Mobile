@@ -8,3 +8,4 @@
 
 [Defect Reports - Mobile App Testing -Laura Rafalovich from YouTrack](https://github.com/LRafaL/Mobile/blob/main/YouTrack%20Bug%20reports.xlsx)
 
+[Test Summary Report](https://github.com/LRafaL/Mobile/blob/main/Test%20Summary%20Report.docx)
