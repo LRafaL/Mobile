@@ -6,3 +6,5 @@
 
 [Test run testing mobile application from QASE](https://github.com/LRafaL/Mobile/blob/main/G7-Express%2Brun%2B2024_06_19%20Qase%20Mobile%20App.pdf)
 
+[Defect Reports - Mobile App Testing -Laura Rafalovich from YouTrack](https://github.com/LRafaL/Mobile/blob/main/YouTrack%20Bug%20reports.xlsx)
+
