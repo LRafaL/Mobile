@@ -9,3 +9,5 @@
 [Defect Reports - Mobile App Testing -Laura Rafalovich from YouTrack](https://github.com/LRafaL/Mobile/blob/main/YouTrack%20Bug%20reports.xlsx)
 
 [Test Summary Report](https://github.com/LRafaL/Mobile/blob/main/Test%20Summary%20Report.docx)
+
+[Checklist for testing the Mobile application "Shopping List" indicating the status](https://docs.google.com/spreadsheets/d/1g9vQnbriZvTW9B_8I-AFq-wVARuMB3H1RWj01-Ztjss/edit?usp=sharing)
